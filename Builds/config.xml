@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Words>
+    <Display_Word>Hello</Display_Word>
+    <Visible_Time>10</Visible_Time>
+    <Delay>0.5</Delay>
+  </Words>
+  <Words>
+    <Display_Word>Salut</Display_Word>
+    <Visible_Time>11</Visible_Time>
+    <Delay>0.54</Delay>
+  </Words>
+</Config>
