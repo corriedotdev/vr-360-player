@@ -5,7 +5,7 @@
 [![alt text](https://github.com/corriedotdev/VR-Research/raw/main/360-video/360.PNG?raw=true)](https://github.com/corriedotdev/VR-Research/blob/main/360-video/360.PNG?raw=true)
 
 
-[Link to build](https://github.com/corriedotdev/VR-Research/releases/tag/vr) | [Link to paper](https://arxiv.org/abs/2310.13700) 
+[Link to build](https://github.com/corriedotdev/VR-Research/releases/tag/vr) | [Link to paper](https://arxiv.org/abs/2304.03652) 
 </div>
 
 This project (360 Video Studies) is now open source, used for conducting user where users are able to see a 360 Video played while a configuration file will display text and audio at pre-set timed intervals specified from a configuration file.
