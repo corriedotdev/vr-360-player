@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![alt text](https://github.com/corriedotdev/VR-Research/raw/main/360-video/360.PNG?raw=true)](https://github.com/corriedotdev/VR-Research/blob/main/360-video/360.PNG?raw=true)
+[![alt text](https://github.com/corriedotdev/vr-360-player/blob/main/360.PNG)](https://github.com/corriedotdev/vr-360-player/blob/main/360.PNG)
 
 
 [Link to build](https://github.com/corriedotdev/VR-Research/releases/tag/vr) | [Link to paper](https://arxiv.org/abs/2304.03652) 
