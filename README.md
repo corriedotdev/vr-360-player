@@ -21,3 +21,4 @@ Config Example
     <Delay>0.5</Delay>
 </Words>
 ```
+🚨 Note: Unity security patches have been applied to release builds.
